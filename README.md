@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jono.
-- 🌱 I’m currently learning HTML, CSS, Javascript, React & NodeJS.
+- Feel free to reach me on jonocdev@gmail.com
 
