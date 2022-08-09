@@ -1,4 +1,4 @@
-#👋 Hi there, I’m Jono.
+# Hi there, I’m Jono 👋
 
 I've been programming for about a year, starting with humble beginnings in a custom scripting language AutoHotkey for fast macro-creation and software automation. Shortly thereafter, I learned the basics of JavaScript and decided fast-track my journey by taking a course.
 
