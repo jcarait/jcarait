@@ -3,4 +3,4 @@
 - Feel free to reach me on jonocdev@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarait)](https://github.com/jcarait/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarait&theme=dark&show_icons=true)](https://github.com/jcarait/github-readme-stats)
