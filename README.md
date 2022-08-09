@@ -13,3 +13,5 @@ You can also contact me via [email](jonocdev@gmail.com)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarait&theme=dark&show_icons=true)](https://github.com/jcarait/github-readme-stats)
 
 [![Jono's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarait&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jcarait&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
