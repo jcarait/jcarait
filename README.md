@@ -10,6 +10,8 @@ You can also contact me via [email](jonocdev@gmail.com)
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,nodejs,html,css,sass,apollo,mysql,heroku,git,jquery,bootstrap,webpack,netlify, gatsby,vscode&perline=10)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarait&theme=dark&show_icons=true)](https://github.com/jcarait/github-readme-stats)
 
 [![Jono's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarait&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
