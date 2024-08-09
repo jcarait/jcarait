@@ -1,10 +1,8 @@
 # Hi there, I’m Jono 👋
 
-I've been programming for about a year, starting with humble beginnings in a custom scripting language AutoHotkey for fast macro-creation and software automation. Shortly thereafter, I learned the basics of JavaScript and decided to fast-track my journey by joining a coding bootcamp.
+Building frontend with React, TypeScript and JavaScript. Hacking the backend with TypeScript and Node.js at Blowfish Studios.
 
-I recently graduated from a Full stack flex coding bootcamp program from the University of Sydney. I'm currently open to developer roles - check out my [portfolio](https://jcarait.dev/)
-
-You can also contact me via [email](jonocdev@gmail.com)
+You can also contact me via [email](to:jonocdev@gmail.com)
 
 ## Skills
 
