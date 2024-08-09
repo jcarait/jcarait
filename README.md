@@ -2,7 +2,7 @@
 
 Building frontend with React, TypeScript and JavaScript. Hacking the backend with TypeScript and Node.js at Blowfish Studios.
 
-You can also contact me via [email](to:jonocdev@gmail.com)
+E: jonocdev@gmail.com
 
 ## Skills
 
