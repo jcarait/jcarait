@@ -6,4 +6,4 @@ E: jonocdev@gmail.com
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,angular,nodejs,html,css,sass,postgres,git,bootstrap,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,postgres,aws,html,css,sass,git,bootstrap,vscode)](https://skillicons.dev)
