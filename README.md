@@ -1,6 +1,6 @@
 # Hi there, I’m Jono 👋
 
-Building frontend with React, TypeScript and JavaScript. Hacking the backend with TypeScript and Node.js at Blowfish Studios.
+Building frontend with React, TypeScript and JavaScript. Hacking backend with TypeScript and Node.js at Blowfish Studios.
 
 E: jonocdev@gmail.com
 
